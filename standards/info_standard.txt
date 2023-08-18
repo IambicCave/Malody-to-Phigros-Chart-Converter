@@ -1,9 +1,0 @@
-#
-Name: test
-Path: 24374731
-Song: 24374731.ogg
-Picture: 24374731.jpg
-Chart: 24374731.json
-Level: 0
-Composer: testcomposer
-Charter: testcreater
