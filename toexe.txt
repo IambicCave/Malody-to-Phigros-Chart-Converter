@@ -1,0 +1,11 @@
+cd C:\Users\zhang\Desktop\Learning\Programming\Python\Malody_to_Phigros_by_IambicCave\test
+
+将“.py”文件转化为单一“.exe”文件
+pyinstaller -F -w -i icon2.ico main.py
+
+将图片文件保存为二进制
+pyrcc5 -o ico.py ico.qrc
+
+将“.ui”文件转化为“.py”文件
+pyuic5 -o GUI.py GUI.ui
+删末行import！

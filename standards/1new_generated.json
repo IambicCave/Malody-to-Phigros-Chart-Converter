@@ -1,0 +1,11 @@
+{
+   "BPMList" : [
+      {
+         "bpm" : 120,
+         "startTime" : [ 0, 0, 1 ]
+      }
+   ],
+   "META" : {
+      "offset" : 0
+   }
+}
